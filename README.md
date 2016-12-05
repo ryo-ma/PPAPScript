@@ -7,7 +7,7 @@ PPAPScript is a programming language which imagined "PPAP"(Pen-Pineapple-Apple-P
 
 Install necessary libraries
 
-```
+```bash
 $ pip install -r requirements
 ```
 
@@ -15,7 +15,7 @@ $ pip install -r requirements
 
 Run PPAPScript
 
-```
+```bash
 $ python ppapscript.py
 ```
 
@@ -48,7 +48,7 @@ ApplePen
 5.Simple four arithmetic operations.
 
 ```
-> I_have_an apple_pen = apple + pen
+> I_have_an applePen = apple + pen
 ```
 
 6.Simple comment out.
