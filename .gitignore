@@ -1,0 +1,6 @@
+.python-version
+/.idea/
+/ppap_env/
+parser.out
+parsetab.py
+/__pycache__/
